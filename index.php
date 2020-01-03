@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "nickappserver";
+    $host = "nickappserver.database.windows.net";
     $user = "nick2905";
     $pass = "ifi>2shop";
     $db = "nickdb";
